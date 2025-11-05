@@ -5,7 +5,6 @@ import {
   resolveValue,
   MyAwesomeError,
   rejectCustomError,
-  // rejectCustomError,
 } from './index';
 
 describe('resolveValue', () => {
